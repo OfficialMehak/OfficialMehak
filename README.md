@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @OfficialMehak
+- 👀 I’m interested in Computer Science, Machine Learning, Deep Learning, and Java Development.
+- 🌱 I’m currently learning and exploring various topics in machine learning and deep learning.
+- 💞️ I’m looking to collaborate on projects related to machine learning and deep learning.
+- 📫 How to reach me: www.linkedin.com/in/mehakofficial
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have a knack for learning new skills quickly, whether it's mastering a new programming language or picking up a new hobby!
